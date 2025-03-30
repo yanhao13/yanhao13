@@ -24,10 +24,6 @@ Lang Used
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanhao13&size_weight=0.5&count_weight=0.5&langs_count=8)
 <!--
-Activity Graph
--->
-![Yanhao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yanhao13&theme=xcode)
-<!--
 Streak
 -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yanhao13)
