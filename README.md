@@ -30,18 +30,6 @@ Snake
     src="https://raw.githubusercontent.com/yanhao13/yanhao13/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--
-Stats Card
--->
-![Yanhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanhao13)
-<!--
-Lang Used
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanhao13&size_weight=0.5&count_weight=0.5&langs_count=8)
-<!--
-Streak
--->
-![GitHub Streak](https://streak-stats.demolab.com/?user=yanhao13)
 <!-- 
 3D Contribution
 -->
