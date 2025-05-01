@@ -29,6 +29,7 @@ Snake
     alt="GitHub Contribution Snake" 
     src="https://raw.githubusercontent.com/yanhao13/yanhao13/output/github-contribution-grid-snake.svg">
 </picture>
+
 <!--
 Stats Card
 -->
